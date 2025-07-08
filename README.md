@@ -1,125 +1,64 @@
-![Blogster - Beautiful, accessible and performant Astroblog templates.](/gh-assets/gh-cover.png)
+## Hi! I'm Mónica 👋
 
-<p align="center">
-    <table>
-        <tbody>
-            <td align="center">
-                <img width="2000" height="0" /><br>
-                <p align="center">
-                    <strong>Blogster<strong> is a collection of beautiful, accessible and performant blog templates built with <a href="https://astro.build">Astro</a> and <a href="https://markdoc.dev">Markdoc</a>.
-                </p>
-                <sub>
-                    Blogster is in <b>alpha</b> preview. If you have any feedback, please open a discussion or issue.<br>
-                    Follow me <a href="https://twitter.com/flexdinesh">@flexdinesh</a> on Twitter for updates.</sub><br>
-                <img width="2000" height="0" />
-            </td>
-        </tbody>
-    </table>
-</p>
+A full-stack developer with a previous track record as a startup co-founder and marketing manager. I'm passionate about innovation, health and nature.
 
-## Maintenance Status
+This is my personal site where I show my previous experiences and education. I built this using Astro and Tailwind CSS.
 
-Blogster was built before Astro released [content collections](https://docs.astro.build/en/guides/content-collections/). With content collections, Astro now has first party built in support for strongly typed content schema and Markdoc rendered content which is what Blogster was built for. So Blogster won't receive any updates in the future. I'm going to leave this as a reference for font load strategy, meta tags and a few other best practices for setting up a website.
+## My CV
 
-## Demo
+### Experience
 
-Check out the demo for each theme.
+#### App/Cloud Support Associate @ Accenture
+- ABAP support & troubleshooting resolution, enhancing systems to keep the SAP landscape stable.
+- Develop custom developments + OData integrations on a green-field SAP rollout with the team.
 
-- [Demo: Sleek](https://blogster-sleek.netlify.app)
-- [Demo: Newspaper](https://blogster-newspaper.netlify.app)
-- [Demo: Bubblegum](https://blogster-bubblegum.netlify.app)
-- [Demo: Minimal](https://blogster-minimal.netlify.app)
+#### Master Thesis Student @ BiSBi Group University of Minho
+- Planned, designed and developed LabHero, a Python-based serious game that stimulates the learning of genome-scale metabolic modeling concepts.
+- Integrated external libraries and packages to enhance software functionality.
 
-## Key Features
+#### Web Developer & Marketing Manager @ MITIC
+- Co-created this agency and built a portfolio of clients from several industries.
+- Designed, developed and managed client websites with WordPress.
+Worked with clients to deliver high-performance solutions for E-Commerce and lead generation.
 
-- **Fast.** Fast by default. Astro websites are engineered to be fast and load before you could blink, even when not cached.
-- **Dark mode.** All themes have light/dark mode built-in.
-- **Mobile first.** Responsive and loads fast in all devices.
-- **Accessible.** A well thought out semantic and accessible content.
-- **Perfect lighthouse score.** 100 across the board.
-- **Easy content authoring** Author content using markdown (`.md`) from your code editor or directly in GitHub.
-- **Extended markdown with [Markdoc](https://markdoc.dev).** Type-safe custom components like YouTube embed, Twitter embed (or anything you want really) in your markdown (`.md`) files.
-- Built in **RSS** feed for you blog, excellent **SEO** and more.
+#### Creative Marketing Manager @ Creative Zone
+- Set up and optimized KPIs for Google Ads and email marketing campaigns.
+- Managed digital marketing channels of clients in Healthcare and Textiles.
+- Managed and optimized the digital strategy of an E-Commerce brand.
 
-## Get Started
+#### Co-Founder & Content Manager @ Framie
+- Key role in customer discovery, go-to-market strategy, and product launch.
+- Managed alpha/beta tests, with user interviews for UX-focused product iteration.
+- Managed content creation and social media strategy.
 
-Get started with one simple command.
 
-```bash
-npx create-blogster@latest --theme sleek
-```
+### Education
 
-## Themes
+#### MSc in Bioinformatics @ University of Minho
+- Algorithm design and optimization for biological data analysis.
+- Software development and optimization for biological research.
+- Machine learning and data mining techniques.
+- Systems biology and metabolic network analysis.
 
-Blogster comes in a variety of themes. You can easily find one that suits and goes well with your personality. All themes are performant, accessible, SEO friendly, built with the best practices out there and have a lighthouse score of 100 across the board.
+#### MSc in Innovation and Technological Entrepreneurship @ University of Porto
+- Start-up and business development.
+- Go-to-market strategy, product/service development, growth marketing.
+- Customer discovery/validation, persona analysis, rapid iteration.
 
-- [Minimal](#minimal)
-- [Sleek](#sleek)
-- [Newspaper](#newspaper)
-- [Bubblegum](#bubblegum)
+#### BSc in Biology @ University of Minho
+- Fundamental education in various fields of biology, such as Biotechnology, Genetics, and Ecology, partaking in different research and industrial projects.
 
-### Minimal
 
-A light weight theme built with plain old HTML and CSS. No external fonts or icons. Zero JavaScript. You get a full functional nice looking blog that loads super fast.
+### Skills
 
-Check it out here - [Blogster minimal template](https://blogster-minimal.netlify.com).
+<b>Programming.</b> Python, SQL, ABAP OO, OData / RESTful APIs, CDS Views, BAdIs, JavaScript, HTML, CSS, Astro, Tailwind CSS, R, Git, MEWpy, Pygame, pytmx, Matplotlib, Pandas, NumPy, Scikit-learn.
 
-```bash
-npx create-blogster@latest --theme minimal
-```
+<b>Packages.</b> MEWpy, Pygame, pytmx, Matplotlib, Pandas, NumPy, Scikit-learn.
 
-### Sleek
+<b>Tools & Technologies.</b> SAP GUI, GitHub, WordPress, MATLAB, R, Adobe Photoshop, Adobe Illustrator, Figma, Tiled.
 
-A beautiful, performant and accessible theme built with [Tailwind](https://tailwindcss.com).
+### Languages
 
-Check it out here - [Blogster sleek template](https://blogster-sleek.netlify.com).
-
-```bash
-npx create-blogster@latest --theme sleek
-```
-
-### Newspaper
-
-A beautiful, performant and accessible theme built with [Tailwind](https://tailwindcss.com).
-
-Check it out here - [Blogster newspaper template](https://blogster-newspaper.netlify.com).
-
-```bash
-npx create-blogster@latest --theme newspaper
-```
-
-### Bubblegum
-
-A beautiful, performant and accessible theme built with [Tailwind](https://tailwindcss.com).
-
-Check it out here - [Blogster bubblegum template](https://blogster-bubblegum.netlify.com).
-
-```bash
-npx create-blogster@latest --theme bubblegum
-```
-
-<!-- ## Showcase
-
-Collections of blogs built with Blogster.
-
-1. [dineshpandiyan.com (sleek)](https://dineshpandiyan.com)
-
-Create a PR to add yours to the list. -->
-
-## FAQ
-
-<details>
-    <summary><strong>1. Why Markdoc or Why not MDX?</strong></summary>
-    <p>
-        MDX is great but when you use MDX, your MDX content is stored as code within your `.md` files. Markdoc lets you build and use your own custom components (Eg. YouTube embed, Twitter embed, Carousel, etc) within your markdown files with a special syntax. Your content is stored as text without having to leak code (imports or JSX) into your `.md` files. You can build validations, type-safety and all sorts of customisations for your custom components with Markdoc. If you're still not convinced, hear this, you can pass Markdoc content as string (just like any other string) throughout your application, store it in local storage or send it as params over the network. IMHO, Markdoc based content authoring gives you the full flexibility of markdown without the limits of the markdown syntax.
-    </p>
-</details>
-
-## Contributing
-
-- When you are using `cmd+shift+F` to search for references across the repo, remember to exclude `templates/` dir because templates are auto-generated using a script and only add noise in search results.
-- Whatever you're changing, you will mostly only need to change in `themes/` or `packages/shared`. The themes in `templates/` dir is auto-synced using a script so you don't have to make any change in the `templates/` dir.
-
-## License
-
-MIT © [Dinesh Pandiyan](https://github.com/flexdinesh)
+- Portuguese. Native (C2).
+- English. (fluent, C2)
+- Spanish. (Basic, A2)
